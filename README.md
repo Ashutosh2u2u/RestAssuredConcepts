@@ -21,7 +21,11 @@ Add following jar to run given test project:
 -> selenium-server-standalone-3.141.59
 
 -> POJO jars
+
             --1. gson-2.8.5
-            --2. jackson-annotations-2.9.9            
+            
+            --2. jackson-annotations-2.9.9 
+            
             --3. jacson-core-2.9.9
+            
             --4. jacson-databind-2.9.9
